@@ -1,6 +1,6 @@
 var options = {
   // ** REQUIRED **
-  access_token:  'aV1SI82xvTrQD9dI92wxOd4a72y0UpTSK8Bbjf0Tmx1C7LrLTyKlETfSyWCqpUSrKMOqX0Y-lWCFw6yPEhcRiFECdgRlo_GULMgGZS0EumxrKbZFiOmnmAPChBPDZ5JP'  // Access token for specific user,
+  // add Access token for specific user,
 }
 var express = require('express')
 var io = require('socket.io').listen(8000);
